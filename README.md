@@ -3,7 +3,8 @@
 Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of around 10.000 Dorks ..! This list is regularly updated !..
 ****
 On This Website - article you can find a lot of info about the Google Dorks:
-Dotweak.com
+Google Dorks an Easy Way of Hacking
+https://dotweak.com/en/2019/09/04/google-dorks-an-easy-way-of-hacking-28706705/
 
 ****
 
