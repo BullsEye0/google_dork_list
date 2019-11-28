@@ -17,11 +17,9 @@ linkedin: https://www.linkedin.com/in/jolandadekoff
 
 Youtube: https://youtu.be/XCtWM-4ov2U
 
-Facebook Page: https://www.facebook.com/ethical.hack.group
+Facebook Page: [Ethical Hacking](https://www.facebook.com/ethical.hack.group)
 
-Facebook Group: https://www.facebook.com/groups/Ethical.Hacking.Cyber.Secure/
-
-Facebook Group: https://www.facebook.com/groups/ethicalhacking.hacker
+Facebook Group: [Ethical Hacking Group](https://www.facebook.com/groups/553702175413873/)
 
 ## Donation Button: 
 **LiberaPay**
