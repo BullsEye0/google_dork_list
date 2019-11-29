@@ -7,19 +7,18 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 ![Screenshot](banner_dork.png)
 ****
 
+# Contact to coder
+Social Networks - Connect
 
-## Contact to coder
-***Social Networks - Connect
+* [Facebook Personal](https://www.facebook.com/jolandadekoff)
 
-Facebook: https://www.facebook.com/jolandadekoff
+* [linkedin](https://www.linkedin.com/in/jolandadekoff/)
 
-linkedin: https://www.linkedin.com/in/jolandadekoff
+* [Youtube](https://youtu.be/XCtWM-4ov2U)
 
-Youtube: https://youtu.be/XCtWM-4ov2U
+* [Facebook Page](https://www.facebook.com/ethical.hack.group)
 
-Facebook Page: [Ethical Hacking](https://www.facebook.com/ethical.hack.group)
-
-Facebook Group: [Ethical Hacking Group](https://www.facebook.com/groups/553702175413873/)
+* [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
 
 ## Donation Button: 
 **LiberaPay**
