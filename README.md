@@ -10,6 +10,8 @@ Google helps you to find Vulnerable Websites that Indexed in Google Search Resul
 # Contact to coder
 Social Networks - Connect
 
+* Website [HackingPassion.com](https://hackingpassion.com)
+
 * [Facebook Personal](https://www.facebook.com/jolandadekoff)
 
 * [linkedin](https://www.linkedin.com/in/jolandadekoff/)
@@ -20,7 +22,11 @@ Social Networks - Connect
 
 * [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
 
-## Donation Button: 
-**LiberaPay**
 
-<noscript><a href="https://liberapay.com/BullsEye/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+## Buy me a coffee
+I have developed Shodan Eye because I am passionate about this. 
+Donations are one of the many ways to support what I do.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
+
