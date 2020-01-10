@@ -7,7 +7,7 @@ In this article i made you can read all about Google Dorks:
 https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
 ****
 
-![Screenshot](banner_dork.png)
+![Screenshot](banner_dork1.png)
 ****
 
 # Contact to coder
