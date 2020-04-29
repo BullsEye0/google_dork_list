@@ -10,6 +10,15 @@ https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
 ![Screenshot](banner_dork1.png)
 ****
 
+# Install Dork List
+
+sudo git clone https://github.com/BullsEye0/google_dork_list.git
+
+cd google_dork_list
+
+cat google_dork_list.txt
+****
+
 # Contact to coder
 Social Networks - Connect
 
