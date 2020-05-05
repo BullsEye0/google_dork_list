@@ -9627,6 +9627,7 @@ inurl:Printers/ipp_0001.asp
 inurl:Productinfo.php?id=
 inurl:Proxy.txt
 inurl:ReportViewer.aspx
+inurl:"ReportServer/Pages/ReportViewer.aspx
 inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp
 inurl:SSI/index.htm
 inurl:SSOLogin.jsp intext:"user"
