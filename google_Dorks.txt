@@ -895,7 +895,7 @@
 "Warning: mysql_connect(): Access denied for user: '*@*" "on line"  -help -forum
 "Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
 "Warning: mysql_connect(): Access denied for user: '@" "on line" -help -forum
-"Warning: mysql_connect(): Access denied for user: ‘*@*" "on line" -help -forum
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
 "Warning: mysql_query()" "invalid query"
 "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
 "Warning:" "Cannot execute a blank command in"
@@ -1172,7 +1172,7 @@
 "powered by Gallery v"|"images" inurl:gallery
 "powered by Gradman"
 "powered by GuppY v4"|"Site cr........ avec GuppY v4"
-"powered by GuppY v4"|"Site crÃƒÆ’Ã‚Â©ÃƒÆ’Ã‚Â© avec GuppY v4"
+"powered by GuppY v4"|"Site crÃƒÆ'Ã‚Â©ÃƒÆ'Ã‚Â© avec GuppY v4"
 "powered by ILIAS"
 "powered by ITWorking"
 "powered by JAMM"
@@ -2778,7 +2778,7 @@
 /templates/headline_temp.php?nst_inc= management
 /templates/headline_temp.php?nst_inc= news
 /templates/headline_temp.php?nst_inc= system
-/templates/headline_temp.php?nst_inc= ‘fusion"
+/templates/headline_temp.php?nst_inc= 'fusion"
 /templates/headline_temp.php?nst_inc= "fusion"
 /templates/headline_temp.php?nst_inc= "management"
 /templates/headline_temp.php?nst_inc= "news"
@@ -3021,7 +3021,7 @@ Google Dorks specifically for admin access
 GradeMap/index.php?page=
 HTTP_USER_AGENT=Googlebot
 Hassan Consulting's Shopping Cart Version 1.18
-Hassan Consulting’s Shopping Cart Version 1.18
+Hassan Consulting's Shopping Cart Version 1.18
 Help Desk Software by Kayako SupportSuite v3.70.02
 HistoryStore/pages/item.php?itemID=
 Hostinger © 2016. All rights reserved inurl:default.php
@@ -7791,7 +7791,7 @@ intitle:"axis storpoint CD" intitle:"ip address"
 intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in"  -demo -site:b2evolution.net
 intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
 intitle:"b2evo installer" intext:"Installer f....r Version"
-intitle:"b2evo installer" intext:"Installer fÃƒÆ’Ã‚Â¼r Version"
+intitle:"b2evo installer" intext:"Installer fÃƒÆ'Ã‚Â¼r Version"
 intitle:"bandwidthd" "programmed by david hinkle, commissioned by derbytech wireless networking."
 intitle:"blog torrent upload"
 intitle:"cascade server" inurl:login.act
@@ -8204,7 +8204,7 @@ intitle:cyber anarchy shell
 intitle:dotCMS inurl:dotAdmin
 intitle:dupics inurl:(add.asp | default.asp | view.asp | voting.asp) -site:duware.com
 intitle:endymion.sak?.mail.login.page | inurl:sake.servlet
-intitle:endymion.sakÃƒÆ’Ã‚Â©.mail.login.page | inurl:sake.servlet
+intitle:endymion.sakÃƒÆ'Ã‚Â©.mail.login.page | inurl:sake.servlet
 intitle:endymion.sak…..mail.login.page | inurl:sake.servlet
 intitle:flexwatch intext:"Home page ver"
 intitle:gallery inurl:setup "Gallery configuration"
@@ -8373,7 +8373,7 @@ intitle:"AppServ Open Project" -site:www.appservnetwork.com
 intitle:"Athens Authentication Point"
 intitle:"Azureus : Java BitTorrent Client Tracker"
 intitle:"BNBT Tracker Info"
-intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc’s PC Management products, for large and small companies."
+intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc's PC Management products, for large and small companies."
 intitle:"Big Sister" +"OK Attention Trouble"
 intitle:"Browser Launch Page"
 intitle:"Cisco CallManager User Options Log On" "Please enter your User ID and Password in the spaces provided below and click the Log On button to co
@@ -8423,7 +8423,7 @@ intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
 intitle:"Login to Cacti"
 intitle:"Login to the forums – @www.aimoo.com" inurl:login.cfm?id=
 intitle:"Login –
-intitle:"MX Control Console" "If you can’t remember"
+intitle:"MX Control Console" "If you can't remember"
 intitle:"Mail Server CMailServer Webmail" "5.2"
 intitle:"MailMan Login"
 intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
@@ -10480,7 +10480,7 @@ inurl:wp-login.php Register Username Password -echo
 inurl:wp-login.php?action=register
 inurl:wp-mail.php  + "There doesn't seem to be any new mail."
 inurl:wp-mail.php + "There doesn't seem to be any new mail."
-inurl:wp-mail.php + "There doesn’t seem to be any new mail."
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
 inurl:wp/wp-login.php
 inurl:wrcontrollite
 inurl:ws_ftp.ini "[WS_FTP]" filetype:ini
@@ -12093,7 +12093,7 @@ redash inurl:/org_slug
 ref=sv"Cart"
 ref=sv"Deal of the day"
 ref=sv"Musical Instrument"
-ref=sv"Today’s deal"
+ref=sv"Today's deal"
 ref=sv"redirect merchant"
 ref=sv"shop by category"
 referral/detail.php?siteid=
@@ -13370,7 +13370,7 @@ zentrack/index.php?configFile=
 "Book.asp?bookID="
 "BookDetails.asp?ID="
 "Browse_Item_Details.asp?Store_Id="
-"Can’t connect to local" intitle:warning
+"Can't connect to local" intitle:warning
 "Certificate Practice Statement" inurl:(PDF | DOC)
 "Chatologica MetaSearch" "stack tracking:"
 "Chatologica MetaSearch" "stack tracking"
@@ -13469,7 +13469,7 @@ zentrack/index.php?configFile=
 "Warning: Cannot modify header information – headers already sent"
 "Warning: Division by zero in" "on line" -forum
 "Warning: Supplied argument is not a valid File-Handle resource in"
-"Warning: mysql_connect(): Access denied for user: ‘*@*" "on line" -help -forum
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
 "Warning: mysql_query()" "invalid query"
 "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
 "Warning:" "SAFE MODE Restriction in effect." "The s?ri?t whose uid is" "is not allowed to access owned by uid 0 in" "on line"
@@ -13663,7 +13663,7 @@ zentrack/index.php?configFile=
 "phpMyAdmin" "running on" inurl:"main.php"
 "please log in"
 "powered by openbsd" +"powered by apache"
-"powered | performed by Beyond Security’s Automated Scanning" -kazaa -example
+"powered | performed by Beyond Security's Automated Scanning" -kazaa -example
 "powersearch.asp?CartId="
 "price.asp"
 "privacy.asp?cartID="
