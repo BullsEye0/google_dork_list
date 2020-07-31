@@ -12,6 +12,7 @@
 
          Hi there, Shall we play a game..?
 
+"MySQL_ROOT_PASSWORD:" "docker-compose" ext:yml
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 !Host=. intext:enc_UserPassword= ext:pcf
 " -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
