@@ -51,4 +51,13 @@ Donations are one of the many ways to support what I do.
 BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
-
+#dorks
+#dork
+#google dorks
+#google hack
+#hacker
+#dorks hack
+#dork list
+#new dork
+#new dork list
+#
