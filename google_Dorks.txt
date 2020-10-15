@@ -13771,3 +13771,6 @@ zentrack/index.php?configFile=
 “your password is” filetype:log
 ” -FrontPage-” ext:pwd inurl:(service | authors | administrators | users)
 ” inurl:”.php?cat=” intext:”/store/”
+inurl:node_modules/mqtt/test/helpers/
+"index" of /backend/prod/config 
+ext:php | intitle:phpinfo "published by the PHP Group"
