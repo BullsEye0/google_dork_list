@@ -1300,7 +1300,7 @@
 "this proxy is working fine!" "enter " "URL" visit
 "this proxy is working fine!" "enter *" "URL***" * visit
 "this site is using the webspell script (version: 4.01.02)"
-"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:demo
+"toendaCMS is Free Software released under the GNU/GPL License." | "powered by toendaCMS" -inurl:https://englishhindiblogs.com/bluehost-black-friday-deal/
 "ttawlogin.cgi/?action="
 "txx cms"
 "username" "password" intitle:"login here"
