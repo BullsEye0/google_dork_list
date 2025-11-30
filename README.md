@@ -62,7 +62,7 @@ If you find this resource useful, consider supporting my work:
 [❤️ Sponsor BullsEye](https://github.com/sponsors/BullsEye0)
 
 Get the full hands-on course:  
-**[Ethical Hacking Complete Course – Zero to Expert](https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=NOVEMBER25)**
+**[Ethical Hacking Complete Course – Zero to Expert](https://www.udemy.com/course/ethical-hacking-complete-course-zero-to-expert/?couponCode=DECEMBER25)**
 
 (supports me directly as your instructor!)
 
